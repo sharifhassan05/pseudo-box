@@ -1,0 +1,14 @@
+body{
+    margin-left: 50px;
+}
+
+.swimming div{
+    border: 1px solid blueviolet;
+    width: 200px;
+}
+
+#ring{
+    position: relative;
+    left: 40px;
+    top: 30px;
+}
